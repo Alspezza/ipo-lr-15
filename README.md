@@ -11,17 +11,17 @@
 task_1/
     app/
         __init__.py
-        [routes.py](http://routes.py)
-    [main.py](http://main.py)
-    [README.md](http://README.md)
+        [routes.py]
+    [main.py]
+    [README.md]
 ```
 
-В [`routes.py`] реализовать маршруты:
+В `routes.py` реализовать маршруты:
 
 - `/` — приветствие
 - `/hello/<name>` — персональное приветствие
 - `/square/<int:number>` — квадрат числа
-- В [`main.py`] настроить запуск приложения.
+- В `main.py` настроить запуск приложения.
 
 
 ### Вариант 1
